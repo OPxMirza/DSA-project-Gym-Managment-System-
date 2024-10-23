@@ -112,8 +112,9 @@ The project includes the following classes:
 
 ```
 📦 gym-management-system
-├── 📁 src
 │   ├── 📄 gymm.cpp               # Main file
+│   ├── 📄 Proposal.pdf           # Project Proposal
+│   ├── 📄 Slides.PPTM            # Project Slides  
 └── 📄 README.md                  # Project Readme file
 ```
 
